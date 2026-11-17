@@ -78,16 +78,22 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AkratiSachan23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkratiSachan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=AkratiSachan23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkratiSachan23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AkratiSachan23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=AkratiSachan23&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkratiSachan23&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
 
 ---
 
