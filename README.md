@@ -86,23 +86,6 @@
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkratiSachan23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=AkratiSachan23&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkratiSachan23&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkratiSachan23&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
